@@ -6,6 +6,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using SuperMarket.Core;
+using SuperMarket.Core.Helpers;
 
 namespace SuperMarket.Api
 {
@@ -20,6 +21,7 @@ namespace SuperMarket.Api
             {
                 var context = services.GetRequiredService<DataContext>();
                 await context.Database.MigrateAsync();
+                await SeedHelper.SeedCategories(context);
             }
             catch (Exception ex)
             {
