@@ -10,3 +10,15 @@ C:\Users\Admin\Desktop\TaiLieuCNTT_Nam4\DOTNET\server\SuperMarket.Core\obj\Debug
 C:\Users\Admin\Desktop\TaiLieuCNTT_Nam4\DOTNET\server\SuperMarket.Core\obj\Debug\net5.0\SuperMarket.Core.dll
 C:\Users\Admin\Desktop\TaiLieuCNTT_Nam4\DOTNET\server\SuperMarket.Core\obj\Debug\net5.0\ref\SuperMarket.Core.dll
 C:\Users\Admin\Desktop\TaiLieuCNTT_Nam4\DOTNET\server\SuperMarket.Core\obj\Debug\net5.0\SuperMarket.Core.pdb
+C:\Users\Admin\Desktop\TaiLieuCNTT_Nam4\DOTNET\server-cSharp\server\SuperMarket.Core\bin\Debug\net5.0\SuperMarket.Core.deps.json
+C:\Users\Admin\Desktop\TaiLieuCNTT_Nam4\DOTNET\server-cSharp\server\SuperMarket.Core\bin\Debug\net5.0\SuperMarket.Core.dll
+C:\Users\Admin\Desktop\TaiLieuCNTT_Nam4\DOTNET\server-cSharp\server\SuperMarket.Core\bin\Debug\net5.0\ref\SuperMarket.Core.dll
+C:\Users\Admin\Desktop\TaiLieuCNTT_Nam4\DOTNET\server-cSharp\server\SuperMarket.Core\bin\Debug\net5.0\SuperMarket.Core.pdb
+C:\Users\Admin\Desktop\TaiLieuCNTT_Nam4\DOTNET\server-cSharp\server\SuperMarket.Core\obj\Debug\net5.0\SuperMarket.Core.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\TaiLieuCNTT_Nam4\DOTNET\server-cSharp\server\SuperMarket.Core\obj\Debug\net5.0\SuperMarket.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\TaiLieuCNTT_Nam4\DOTNET\server-cSharp\server\SuperMarket.Core\obj\Debug\net5.0\SuperMarket.Core.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\TaiLieuCNTT_Nam4\DOTNET\server-cSharp\server\SuperMarket.Core\obj\Debug\net5.0\SuperMarket.Core.AssemblyInfo.cs
+C:\Users\Admin\Desktop\TaiLieuCNTT_Nam4\DOTNET\server-cSharp\server\SuperMarket.Core\obj\Debug\net5.0\SuperMarket.Core.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TaiLieuCNTT_Nam4\DOTNET\server-cSharp\server\SuperMarket.Core\obj\Debug\net5.0\SuperMarket.Core.dll
+C:\Users\Admin\Desktop\TaiLieuCNTT_Nam4\DOTNET\server-cSharp\server\SuperMarket.Core\obj\Debug\net5.0\ref\SuperMarket.Core.dll
+C:\Users\Admin\Desktop\TaiLieuCNTT_Nam4\DOTNET\server-cSharp\server\SuperMarket.Core\obj\Debug\net5.0\SuperMarket.Core.pdb

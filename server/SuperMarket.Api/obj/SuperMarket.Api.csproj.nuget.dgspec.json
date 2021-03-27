@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\TaiLieuCNTT_Nam4\\DOTNET\\server\\SuperMarket.Api\\SuperMarket.Api.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\TaiLieuCNTT_Nam4\\DOTNET\\server-cSharp\\server\\SuperMarket.Api\\SuperMarket.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\TaiLieuCNTT_Nam4\\DOTNET\\server\\SuperMarket.Api\\SuperMarket.Api.csproj": {
+    "C:\\Users\\Admin\\Desktop\\TaiLieuCNTT_Nam4\\DOTNET\\server-cSharp\\server\\SuperMarket.Api\\SuperMarket.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\TaiLieuCNTT_Nam4\\DOTNET\\server\\SuperMarket.Api\\SuperMarket.Api.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\TaiLieuCNTT_Nam4\\DOTNET\\server-cSharp\\server\\SuperMarket.Api\\SuperMarket.Api.csproj",
         "projectName": "SuperMarket.Api",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\TaiLieuCNTT_Nam4\\DOTNET\\server\\SuperMarket.Api\\SuperMarket.Api.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\TaiLieuCNTT_Nam4\\DOTNET\\server-cSharp\\server\\SuperMarket.Api\\SuperMarket.Api.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\TaiLieuCNTT_Nam4\\DOTNET\\server\\SuperMarket.Api\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\TaiLieuCNTT_Nam4\\DOTNET\\server-cSharp\\server\\SuperMarket.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Admin\\Desktop\\TaiLieuCNTT_Nam4\\DOTNET\\server\\SuperMarket.Services\\SuperMarket.Services.csproj": {
-                "projectPath": "C:\\Users\\Admin\\Desktop\\TaiLieuCNTT_Nam4\\DOTNET\\server\\SuperMarket.Services\\SuperMarket.Services.csproj"
+              "C:\\Users\\Admin\\Desktop\\TaiLieuCNTT_Nam4\\DOTNET\\server-cSharp\\server\\SuperMarket.Services\\SuperMarket.Services.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\TaiLieuCNTT_Nam4\\DOTNET\\server-cSharp\\server\\SuperMarket.Services\\SuperMarket.Services.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\Admin\\Desktop\\TaiLieuCNTT_Nam4\\DOTNET\\server\\SuperMarket.Core\\SuperMarket.Core.csproj": {
+    "C:\\Users\\Admin\\Desktop\\TaiLieuCNTT_Nam4\\DOTNET\\server-cSharp\\server\\SuperMarket.Core\\SuperMarket.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\TaiLieuCNTT_Nam4\\DOTNET\\server\\SuperMarket.Core\\SuperMarket.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\TaiLieuCNTT_Nam4\\DOTNET\\server-cSharp\\server\\SuperMarket.Core\\SuperMarket.Core.csproj",
         "projectName": "SuperMarket.Core",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\TaiLieuCNTT_Nam4\\DOTNET\\server\\SuperMarket.Core\\SuperMarket.Core.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\TaiLieuCNTT_Nam4\\DOTNET\\server-cSharp\\server\\SuperMarket.Core\\SuperMarket.Core.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\TaiLieuCNTT_Nam4\\DOTNET\\server\\SuperMarket.Core\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\TaiLieuCNTT_Nam4\\DOTNET\\server-cSharp\\server\\SuperMarket.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -121,14 +121,14 @@
         }
       }
     },
-    "C:\\Users\\Admin\\Desktop\\TaiLieuCNTT_Nam4\\DOTNET\\server\\SuperMarket.Services\\SuperMarket.Services.csproj": {
+    "C:\\Users\\Admin\\Desktop\\TaiLieuCNTT_Nam4\\DOTNET\\server-cSharp\\server\\SuperMarket.Services\\SuperMarket.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\TaiLieuCNTT_Nam4\\DOTNET\\server\\SuperMarket.Services\\SuperMarket.Services.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\TaiLieuCNTT_Nam4\\DOTNET\\server-cSharp\\server\\SuperMarket.Services\\SuperMarket.Services.csproj",
         "projectName": "SuperMarket.Services",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\TaiLieuCNTT_Nam4\\DOTNET\\server\\SuperMarket.Services\\SuperMarket.Services.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\TaiLieuCNTT_Nam4\\DOTNET\\server-cSharp\\server\\SuperMarket.Services\\SuperMarket.Services.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\TaiLieuCNTT_Nam4\\DOTNET\\server\\SuperMarket.Services\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\TaiLieuCNTT_Nam4\\DOTNET\\server-cSharp\\server\\SuperMarket.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -143,8 +143,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Admin\\Desktop\\TaiLieuCNTT_Nam4\\DOTNET\\server\\SuperMarket.Core\\SuperMarket.Core.csproj": {
-                "projectPath": "C:\\Users\\Admin\\Desktop\\TaiLieuCNTT_Nam4\\DOTNET\\server\\SuperMarket.Core\\SuperMarket.Core.csproj"
+              "C:\\Users\\Admin\\Desktop\\TaiLieuCNTT_Nam4\\DOTNET\\server-cSharp\\server\\SuperMarket.Core\\SuperMarket.Core.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\TaiLieuCNTT_Nam4\\DOTNET\\server-cSharp\\server\\SuperMarket.Core\\SuperMarket.Core.csproj"
               }
             }
           }

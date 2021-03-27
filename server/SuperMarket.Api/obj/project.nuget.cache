@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8ut37iYp0+iWwvtwdc+tAunlZNEtJWPGCcFiNxhBWlFgZ/3lCePVyQS2GcImdeBm043xKsYtFWExvTCKvDWU0w==",
+  "dgSpecHash": "wxK5ZpNwxSGa7Xf8dLTSPmY9PxcLJFq3wsYpc/7PP3uhf6pt76HTT5QpzTB/y6YxsF17szFHtE+wKh+jfVF5JQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Desktop\\TaiLieuCNTT_Nam4\\DOTNET\\server\\SuperMarket.Api\\SuperMarket.Api.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\TaiLieuCNTT_Nam4\\DOTNET\\server-cSharp\\server\\SuperMarket.Api\\SuperMarket.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

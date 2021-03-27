@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\TaiLieuCNTT_Nam4\\DOTNET\\server\\SuperMarket.Core\\SuperMarket.Core.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\TaiLieuCNTT_Nam4\\DOTNET\\server-cSharp\\server\\SuperMarket.Core\\SuperMarket.Core.csproj",
       "projectName": "SuperMarket.Core",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\TaiLieuCNTT_Nam4\\DOTNET\\server\\SuperMarket.Core\\SuperMarket.Core.csproj",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\TaiLieuCNTT_Nam4\\DOTNET\\server-cSharp\\server\\SuperMarket.Core\\SuperMarket.Core.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\TaiLieuCNTT_Nam4\\DOTNET\\server\\SuperMarket.Core\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\TaiLieuCNTT_Nam4\\DOTNET\\server-cSharp\\server\\SuperMarket.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"

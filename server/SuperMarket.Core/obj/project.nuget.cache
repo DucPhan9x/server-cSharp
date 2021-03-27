@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HaioP1+r5GT+QmOdODV6ZkqVNWah8NOix6q8w4+L6kszd1eLDbS0+R80Ao/a3XxApj9sZxGHS/7phrtSFttVeg==",
+  "dgSpecHash": "RXAWoJvAQtzhZwPyhi1FfVPDUR7JTDD2nmx4BnrqX+Ty46mkTbKO++GXIJjQzV7woYvCmkJ+i3cfLNzwBZb4Jw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Desktop\\TaiLieuCNTT_Nam4\\DOTNET\\server\\SuperMarket.Core\\SuperMarket.Core.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\TaiLieuCNTT_Nam4\\DOTNET\\server-cSharp\\server\\SuperMarket.Core\\SuperMarket.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
