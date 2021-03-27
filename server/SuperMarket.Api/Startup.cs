@@ -6,11 +6,13 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
+using SuperMarket.Core;
 
 namespace SuperMarket.Api
 {
@@ -32,6 +34,8 @@ namespace SuperMarket.Api
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "SuperMarket.Api", Version = "v1" });
             });
+            services.AddDbContext<DataContext>(options =>
+            options.UseSqlServer(Configuration.GetConnectionString("SuperMerketDb")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

@@ -22,3 +22,6 @@ C:\Users\Admin\Desktop\TaiLieuCNTT_Nam4\DOTNET\server-cSharp\server\SuperMarket.
 C:\Users\Admin\Desktop\TaiLieuCNTT_Nam4\DOTNET\server-cSharp\server\SuperMarket.Core\obj\Debug\net5.0\SuperMarket.Core.dll
 C:\Users\Admin\Desktop\TaiLieuCNTT_Nam4\DOTNET\server-cSharp\server\SuperMarket.Core\obj\Debug\net5.0\ref\SuperMarket.Core.dll
 C:\Users\Admin\Desktop\TaiLieuCNTT_Nam4\DOTNET\server-cSharp\server\SuperMarket.Core\obj\Debug\net5.0\SuperMarket.Core.pdb
+C:\Users\Admin\Desktop\TaiLieuCNTT_Nam4\DOTNET\server-cSharp\server\SuperMarket.Core\bin\Debug\net5.0\SuperMarket.Core.runtimeconfig.json
+C:\Users\Admin\Desktop\TaiLieuCNTT_Nam4\DOTNET\server-cSharp\server\SuperMarket.Core\bin\Debug\net5.0\SuperMarket.Core.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\TaiLieuCNTT_Nam4\DOTNET\server-cSharp\server\SuperMarket.Core\obj\Debug\net5.0\SuperMarket.Core.genruntimeconfig.cache
