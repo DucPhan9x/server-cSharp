@@ -11,7 +11,7 @@ namespace SuperMarket.Core
     {
         public DataContext(DbContextOptions<DataContext> options) : base(options) { }
         public DbSet<Product> Products { get; set; }
-        public DbSet<Category> Category { get; set; }
+        public DbSet<Category> Categories { get; set; }
 
     }
 }

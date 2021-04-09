@@ -13,6 +13,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
 using SuperMarket.Core;
+using SuperMarket.Services;
 
 namespace SuperMarket.Api
 {
@@ -36,6 +37,8 @@ namespace SuperMarket.Api
             });
             services.AddDbContext<DataContext>(options =>
             options.UseSqlServer(Configuration.GetConnectionString("SuperMerketDb")));
+            services.AddScoped<ICategoryServices,CategoryServices>();
+            services.AddScoped<IProductServices,ProductServices>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

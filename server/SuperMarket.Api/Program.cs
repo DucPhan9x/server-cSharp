@@ -22,6 +22,7 @@ namespace SuperMarket.Api
                 var context = services.GetRequiredService<DataContext>();
                 await context.Database.MigrateAsync();
                 await SeedHelper.SeedCategories(context);
+                await SeedHelper.SeedProducts(context);
             }
             catch (Exception ex)
             {
