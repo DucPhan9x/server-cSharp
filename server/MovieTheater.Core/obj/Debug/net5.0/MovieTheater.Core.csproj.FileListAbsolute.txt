@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\GK_102170013_PHANTRONGDUC\backend_api_mvc\MovieTheater.Core\bin\Debug\net5.0\MovieTheater.Core.deps.json
+C:\Users\Admin\Desktop\GK_102170013_PHANTRONGDUC\backend_api_mvc\MovieTheater.Core\bin\Debug\net5.0\MovieTheater.Core.runtimeconfig.json
+C:\Users\Admin\Desktop\GK_102170013_PHANTRONGDUC\backend_api_mvc\MovieTheater.Core\bin\Debug\net5.0\MovieTheater.Core.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\GK_102170013_PHANTRONGDUC\backend_api_mvc\MovieTheater.Core\bin\Debug\net5.0\MovieTheater.Core.dll
+C:\Users\Admin\Desktop\GK_102170013_PHANTRONGDUC\backend_api_mvc\MovieTheater.Core\bin\Debug\net5.0\ref\MovieTheater.Core.dll
+C:\Users\Admin\Desktop\GK_102170013_PHANTRONGDUC\backend_api_mvc\MovieTheater.Core\bin\Debug\net5.0\MovieTheater.Core.pdb
+C:\Users\Admin\Desktop\GK_102170013_PHANTRONGDUC\backend_api_mvc\MovieTheater.Core\obj\Debug\net5.0\MovieTheater.Core.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\GK_102170013_PHANTRONGDUC\backend_api_mvc\MovieTheater.Core\obj\Debug\net5.0\MovieTheater.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\GK_102170013_PHANTRONGDUC\backend_api_mvc\MovieTheater.Core\obj\Debug\net5.0\MovieTheater.Core.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\GK_102170013_PHANTRONGDUC\backend_api_mvc\MovieTheater.Core\obj\Debug\net5.0\MovieTheater.Core.AssemblyInfo.cs
+C:\Users\Admin\Desktop\GK_102170013_PHANTRONGDUC\backend_api_mvc\MovieTheater.Core\obj\Debug\net5.0\MovieTheater.Core.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\GK_102170013_PHANTRONGDUC\backend_api_mvc\MovieTheater.Core\obj\Debug\net5.0\MovieTheater.Core.dll
+C:\Users\Admin\Desktop\GK_102170013_PHANTRONGDUC\backend_api_mvc\MovieTheater.Core\obj\Debug\net5.0\ref\MovieTheater.Core.dll
+C:\Users\Admin\Desktop\GK_102170013_PHANTRONGDUC\backend_api_mvc\MovieTheater.Core\obj\Debug\net5.0\MovieTheater.Core.pdb
+C:\Users\Admin\Desktop\GK_102170013_PHANTRONGDUC\backend_api_mvc\MovieTheater.Core\obj\Debug\net5.0\MovieTheater.Core.genruntimeconfig.cache

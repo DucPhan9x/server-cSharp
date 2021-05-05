@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\GK_102170013_PHANTRONGDUC\backend_api_mvc\MovieTheater.Service\bin\Debug\net5.0\MovieTheater.Services.deps.json
+C:\Users\Admin\Desktop\GK_102170013_PHANTRONGDUC\backend_api_mvc\MovieTheater.Service\bin\Debug\net5.0\MovieTheater.Services.dll
+C:\Users\Admin\Desktop\GK_102170013_PHANTRONGDUC\backend_api_mvc\MovieTheater.Service\bin\Debug\net5.0\ref\MovieTheater.Services.dll
+C:\Users\Admin\Desktop\GK_102170013_PHANTRONGDUC\backend_api_mvc\MovieTheater.Service\bin\Debug\net5.0\MovieTheater.Services.pdb
+C:\Users\Admin\Desktop\GK_102170013_PHANTRONGDUC\backend_api_mvc\MovieTheater.Service\bin\Debug\net5.0\MovieTheater.Core.dll
+C:\Users\Admin\Desktop\GK_102170013_PHANTRONGDUC\backend_api_mvc\MovieTheater.Service\bin\Debug\net5.0\MovieTheater.Core.pdb
+C:\Users\Admin\Desktop\GK_102170013_PHANTRONGDUC\backend_api_mvc\MovieTheater.Service\obj\Debug\net5.0\MovieTheater.Services.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\GK_102170013_PHANTRONGDUC\backend_api_mvc\MovieTheater.Service\obj\Debug\net5.0\MovieTheater.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\GK_102170013_PHANTRONGDUC\backend_api_mvc\MovieTheater.Service\obj\Debug\net5.0\MovieTheater.Services.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\GK_102170013_PHANTRONGDUC\backend_api_mvc\MovieTheater.Service\obj\Debug\net5.0\MovieTheater.Services.AssemblyInfo.cs
+C:\Users\Admin\Desktop\GK_102170013_PHANTRONGDUC\backend_api_mvc\MovieTheater.Service\obj\Debug\net5.0\MovieTheater.Services.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\GK_102170013_PHANTRONGDUC\backend_api_mvc\MovieTheater.Service\obj\Debug\net5.0\MovieTheater.Services.csproj.CopyComplete
+C:\Users\Admin\Desktop\GK_102170013_PHANTRONGDUC\backend_api_mvc\MovieTheater.Service\obj\Debug\net5.0\MovieTheater.Services.dll
+C:\Users\Admin\Desktop\GK_102170013_PHANTRONGDUC\backend_api_mvc\MovieTheater.Service\obj\Debug\net5.0\ref\MovieTheater.Services.dll
+C:\Users\Admin\Desktop\GK_102170013_PHANTRONGDUC\backend_api_mvc\MovieTheater.Service\obj\Debug\net5.0\MovieTheater.Services.pdb
